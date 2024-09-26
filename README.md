@@ -1,8 +1,6 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-
-
-
+  <img height="250" src="https://t4.ftcdn.net/jpg/08/19/82/47/240_F_819824719_8TrQybO6C7A5jGRgW9lrcCEfSt8ZxBXi.jpg"  /> <br> <br>
+  <svb
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mukul-webdev)
 </div>
 
@@ -10,7 +8,7 @@
 
 
 # 💫 About Me:
-Hey there! 👋 I'm a first-year B.Tech CSE student with a passion for coding and a focus on mastering the MERN stack. I'm all about turning ideas into functional web applications and continuously learning and growing as a developer. When I'm not coding, you can find me exploring new technologies and enjoying the journey of turning lines of code into amazing web experiences. Let's connect and build something awesome together! 💻🌐 
+Hello! 👋 I'm a CSE undergrad immersed in the world of development, specializing in the MERN stack and currently honing my DSA skills in Java. I thrive on transforming concepts into interactive web applications and embrace every opportunity to learn something new. Outside of coding, I enjoy experimenting with emerging technologies and collaborating on open-source projects. Let’s connect and create something impactful together! 💻🌐
 
 
 # 💻 Tech Stack:
