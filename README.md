@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://t4.ftcdn.net/jpg/08/19/82/47/240_F_819824719_8TrQybO6C7A5jGRgW9lrcCEfSt8ZxBXi.jpg"  /> <br> <br>
+  <img height="250" src="https://s7.ezgif.com/tmp/ezgif-73b33931a93b2.png"  /> <br> <br>
   <svb
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mukul-webdev)
 </div>
