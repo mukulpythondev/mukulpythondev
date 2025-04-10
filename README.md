@@ -1,6 +1,8 @@
 <div align="center">
-  <img height="250" src="https://s7.ezgif.com/tmp/ezgif-73b33931a93b2.png"  /> <br> <br>
-  <svb
+ 
+ <img src="https://media-hosting.imagekit.io/27ab1d84447b4411/ChatGPT%20Image%20Apr%201,%202025,%2011_55_06%20PM.png?Expires=1838877585&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=jL-fXKaf1ycy9g-WA-xYJjaQfpPCxs9wU-9T67Ywwo4Gwj38QtG7O-UMHFCFPImZw5LZhYym7w-ZwsI74r62BbUEAPgqNLtdyikwVtZJgrZ~Uuk3H9-VjRbhm3-KZ0mjMvdpgOcK7cogvSUV73FoN33z~lIzJf141jb9Kixlbki~OmPGpAt1T74i1jFkTJiAJa4Gi-J9YFfWgeyaH-2Lq2v1~7U5Y6nCklxdFbhP~sExdqsdMh16UdXr1lnxErvBbkCcGRNttvC~34s37hWQsxeqyN6ivkyJKXQR~gim1RmC05nUJglUeueXA9RMuZSAcJ58~AaEWGxJuB5uRk45mA__" width="300" />
+<br> <br>
+
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mukul-webdev)
 </div>
 
